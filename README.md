@@ -1,4 +1,4 @@
-# MFN-SPSCA
+# STRFLNet
 Welcome to the repository for our paper: "STRFLNet: Spatio-Temporal Representation Fusion Learning Network for EEG-Based Emotion Recognition."
 # Model
 ![image](https://github.com/ZJUTofBrainIntelligence/STRFLNet/blob/main/image/Figure1.jpg)
