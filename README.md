@@ -1,7 +1,9 @@
 # STRFLNet
 Welcome to the repository for our paper: "STRFLNet: Spatio-Temporal Representation Fusion Learning Network for EEG-Based Emotion Recognition."
 
-It is an end-to-end deep learning framework for classifying raw EEG signals. The SEED and SEED-IV datasets used by [STRFLNet](https://www.computer.org/csdl/journal/ta/5555/01/11168179/2a5v5k5tNDy) can be found on this [website](https://bcmi.sjtu.edu.cn/home/seed/)。
+It is an end-to-end deep learning framework for classifying raw EEG signals. The SEED and SEED-IV datasets used by [STRFLNet](https://www.computer.org/csdl/journal/ta/5555/01/11168179/2a5v5k5tNDy) can be found on this [website](https://bcmi.sjtu.edu.cn/home/seed/).
+
+We will upload the code associated with this work no later than 20 October 2025.
 # Model
 ![image](https://github.com/ZJUTofBrainIntelligence/STRFLNet/blob/main/image/Figure1.jpg)
 
